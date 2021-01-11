@@ -6,4 +6,3 @@ The purpose of this analysis is to create dashboard with data visualizations for
 - Horizontal Bar Chart
 - Bubble Chart
 - Gauge Chart
-d
